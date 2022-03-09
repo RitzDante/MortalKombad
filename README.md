@@ -1,5 +1,5 @@
 # Mortal Kombat
-![sample](../screenshots/sample.png)
+![sample](screenshots/sample.png)
 
 JavaScript практики:
 - window && IIFE
