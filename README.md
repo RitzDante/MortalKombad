@@ -1,4 +1,6 @@
 # Mortal Kombat
+[Preview](https://ritzdante.github.io/MortalKombad/)
+
 ![sample](screenshots/sample.png)
 
 JavaScript практики:
